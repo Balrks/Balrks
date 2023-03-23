@@ -1,4 +1,4 @@
-### Hi! My name is Iqbaal. I was born in Aceh, .
+### Hi! My name Iqbaal. I was born in Nanggroe Aceh Darussalam
 
 <p align="center"><img src="https://www.codewars.com/users/Balrks/badges/large"/><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=Balrks&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
