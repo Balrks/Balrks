@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, Iqbaal 👋
+
+### and here is my stats
+<p align="center"><img src="https://www.codewars.com/users/Balrks/badges/large"/><br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Balrks&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balrks&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balrks&layout=compact&theme=monokai&langs_count=12"/><br />
+</p>
 
 <!--
 **Balrks/Balrks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
