@@ -1,6 +1,5 @@
-### Hi there, Iqbaal 👋
+### Hi! My name is Iqbaal. I was born in Aceh, .
 
-### and here is my stats
 <p align="center"><img src="https://www.codewars.com/users/Balrks/badges/large"/><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=Balrks&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balrks&theme=monokai"/>
